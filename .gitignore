@@ -1,0 +1,15 @@
+bin/
+charts/*/charts
+env/decrypted/
+env/whitelist.yaml
+pkg/
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
